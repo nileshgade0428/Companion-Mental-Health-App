@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_complete_task.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\complete_task.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_contact_dialog.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\info_contact_dialog.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_angel.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\angel.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper3.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper3.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_thunderstorm.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\thunderstorm.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_modak.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\modak.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_devil.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\devil.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_rain.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\rain.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_angry.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\angry.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper11.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper11.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quiz_background.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\quiz_background.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calender.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper10.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper10.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home_sunset.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\frag_home_sunset.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mood.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_mood.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper2.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper2.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_audio_play_background.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\audio_play_background.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\anim_topanimation.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\anim\\topanimation.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home_day.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\frag_home_day.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_quiz.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_quiz.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_live_help_black_24dp.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_live_help_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_night.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\home_night.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nerd.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\nerd.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contacts.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_contacts.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quiz_button.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\quiz_button.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emotiondetection.jpg.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\emotiondetection.jpg"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anxiety_results.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_anxiety_results.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper39.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper39.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home_night.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\frag_home_night.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cool.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\cool.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_sunset.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\home_sunset.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper20.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper20.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_logo_round.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper13.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper13.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper1.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper1.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_icon.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\camera_icon.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper4.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper4.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sick.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\sick.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_task.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\task.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breathing_exercise.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_breathing_exercise.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appsplash.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\appsplash.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_yesteryear.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\yesteryear.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_moonlight_sonata.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\moonlight_sonata.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle_bg.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\triangle_bg.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_womanout.jpg.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\womanout.jpg"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo_round.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper37.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper37.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_wallpaperlayout.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\wallpaperlayout.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_defaultwallpaperlayout.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\defaultwallpaperlayout.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_habit.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_habit.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_icon.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\music_icon.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_todo.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_todo.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditationcircle.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\meditationcircle.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_helpline.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_helpline.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mood.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_mood.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_layout.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_breathing_background.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\breathing_background.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_icon.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\edit_icon.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textview_outline.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\textview_outline.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_bird_ambience.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\bird_ambience.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anxiety.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_anxiety.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper8.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper8.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ambient.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_ambient.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_depressed.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\depressed.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wallpaper.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_addmood.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_addmood.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_audio.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\view_audio.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plussign.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\plussign.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_day.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\home_day.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper9.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper9.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sky.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\sky.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_waterfall2.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\waterfall2.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\bungee.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper25.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper25.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper12.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper12.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper38.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper38.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper32.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper32.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_dawn.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\home_dawn.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sad.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\sad.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_depression_result.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_depression_result.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_logo_round.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_water.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\water.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_startlogin.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_startlogin.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stars.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\stars.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breathing.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_breathing.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper18.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper18.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper41.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper41.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper26.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper26.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_logo_round.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sleep.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_sleep.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper34.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper34.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_task.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\add_task.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_home_dawn.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\frag_home_dawn.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleepy.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\sleepy.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_goals.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_goals.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo_cropped.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\app_logo_cropped.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_breathe.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_breathe.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper17.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper17.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper40.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper40.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_logo_round.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_logo_round.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scared.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\scared.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_todolistbackground.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\todolistbackground.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper33.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper33.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper27.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper27.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_waterfall3.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\waterfall3.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ambient.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_ambient.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_task.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\delete_task.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper24.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper24.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listviewbackground.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\listviewbackground.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_moodlog.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_moodlog.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_depression.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_depression.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launcher_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\launcher_logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper31.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper31.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper19.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper19.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asterisk.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\asterisk.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_habit_tracker_background.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\habit_tracker_background.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper16.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper16.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper29.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper29.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_task.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\info_task.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptsd_1.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_ptsd_1.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_forest2.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\forest2.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_to_do_list.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\to_do_list.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottomanimation.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\anim\\bottomanimation.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_button.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\edit_button.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper7.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper7.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_campfire.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\campfire.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_happy.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\happy.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper15.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper15.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_ocean_waves.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\ocean_waves.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_defaultprofile.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\defaultprofile.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_profile_dialog.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\edit_profile_dialog.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper23.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper23.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wallpaper.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper36.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper36.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptsd_2.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_ptsd_2.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptsd.jpg.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ptsd.jpg"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_manbulb.jpg.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\manbulb.jpg"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper21.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper21.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flushed.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\flushed.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper14.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper14.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_logo.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_logo.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper5.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper5.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper30.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper30.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradientbg.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\gradientbg.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notif_icon.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\notif_icon.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lovely.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\lovely.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_logo_round.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_logo_round.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunset.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\sunset.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_task_dialog.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\info_task_dialog.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_emergency.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_emergency.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_breeze.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\breeze.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper28.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper28.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ptsd_results_2.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\layout\\activity_ptsd_results_2.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neutral.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\neutral.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper6.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper6.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\raw_forest1.mp3.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\raw\\forest1.mp3"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\font_arima_madurai_extrabold.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\font\\arima_madurai_extrabold.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditation.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\meditation.gif"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper35.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper35.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper22.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper22.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moodlistbackground.xml.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\moodlistbackground.xml"
+    },
+    {
+        "merged": "D:\\Companion\\Companion\\Companion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_waterfall.gif.flat",
+        "source": "D:\\Companion\\Companion\\Companion\\app\\src\\main\\res\\drawable\\waterfall.gif"
+    }
+]

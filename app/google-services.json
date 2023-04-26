@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "878076472198",
+    "firebase_url": "https://mentalhealth-1f246-default-rtdb.firebaseio.com",
+    "project_id": "mentalhealth-1f246",
+    "storage_bucket": "mentalhealth-1f246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878076472198:android:5020b12d9ae4908d76da07",
+        "android_client_info": {
+          "package_name": "com.example.companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878076472198-jiudhnbce9t62tmhbq6l211imn4at594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXQM-l3jNxpX1x-iJvGc86QdoZ9ytBlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878076472198-jiudhnbce9t62tmhbq6l211imn4at594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878076472198:android:1ff7a3289544209676da07",
+        "android_client_info": {
+          "package_name": "com.pacman.MentAlly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878076472198-jiudhnbce9t62tmhbq6l211imn4at594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXQM-l3jNxpX1x-iJvGc86QdoZ9ytBlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878076472198-jiudhnbce9t62tmhbq6l211imn4at594.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

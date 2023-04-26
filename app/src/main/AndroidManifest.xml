@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.companion">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" /> <!-- <uses-permission android:name="android.permission.CALL_PRIVILEGED"/> -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
+
+        <activity
+            android:name=".ui.camera.CameraActivity"
+            android:exported="false"
+            android:grantUriPermissions="true"/>
+        <activity android:name=".ui.camera.ResultActivity" />
+
+        <!-- Main Splash Page -->
+        <activity android:name=".ui.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Login Page -->
+        <activity android:name=".ui.login.LoginActivity" /> <!-- Registration Page -->
+        <activity
+            android:name=".ui.register.RegisterActivity"
+            android:label="@string/app_name" /> <!-- Main Page -->
+        <activity android:name=".ui.home.MainActivity" /> <!-- Profile Page -->
+        <activity android:name=".ui.profile.ProfileActivity" /> <!-- Todo List -->
+
+        <activity android:name=".ui.anxiety.anxietyActivity" />
+        <activity android:name=".ui.anxiety.anxietyResultActivity" /> <!-- Bipolar Questionnaire -->
+
+        <activity android:name=".ui.depression.depressionActivity" />
+        <activity android:name=".ui.depression.depressionResultActivity" /> <!-- &lt;!&ndash; OCD Questionnaire &ndash;&gt; -->
+
+        <activity android:name=".ui.ptsd.ptsd" />
+        <activity android:name=".ui.ptsd.ptsdActivity" />
+        <activity android:name=".ui.ptsd.ptsdResultActivity" /> <!-- Mood Page -->
+        <activity android:name=".ui.Mood.MoodActivity" />
+        <activity android:name=".ui.Mood.AddMoodActivity" /> <!-- Habit Page -->
+
+        <activity
+            android:name=".ui.breathing.BreathingActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".ui.breathing.BreathingExerciseActivity"
+            android:label="@string/app_name" /> <!-- Ambient Noise Player -->
+        <activity android:name=".ui.ambient.AmbientActivity" />
+
+        <service android:name=".ui.ambient.MediaPlaybackService">
+            <intent-filter>
+                <action android:name="android.media.browse.MediaBrowserService" />
+            </intent-filter>
+        </service>
+        <activity android:name=".ui.home.HomeActivity" />
+        <activity android:name=".ui.quiz.QuizActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

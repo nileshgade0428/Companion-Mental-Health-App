@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.projectoxford:face:1.4.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caches/transforms-2/files-2.1/0a7cc7ad166c68490023921ce29c1fdf/jetified-face-1.4.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-2/files-2.1/0a7cc7ad166c68490023921ce29c1fdf/jetified-face-1.4.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

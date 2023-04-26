@@ -1,0 +1,459 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pacman.MentAlly"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:6:5-65
+11-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:6:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:7:5-67
+12-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.CALL_PHONE" /> <!-- <uses-permission android:name="android.permission.CALL_PRIVILEGED"/> -->
+13-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:8:5-69
+13-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:8:22-66
+14    <uses-permission android:name="android.permission.SEND_SMS" />
+14-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:9:5-67
+14-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:12:5-79
+15-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.android.gms:play-services-measurement-api:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\883fe3ee61da0b22067da7d7ee17f093\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\883fe3ee61da0b22067da7d7ee17f093\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:11:5-73:19
+21        android:allowBackup="true"
+21-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:12:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\945efd7d25b6f8b1a8c41fb294c97739\core-1.3.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher_logo"
+25-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:13:9-48
+26        android:label="@string/app_name"
+26-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:14:9-41
+27        android:roundIcon="@mipmap/ic_launcher_logo"
+27-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:15:9-53
+28        android:supportsRtl="true"
+28-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:16:9-35
+29        android:theme="@style/AppTheme" >
+29-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:17:9-40
+30        <uses-library
+30-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:19:9-88
+31            android:name="org.apache.http.legacy"
+31-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:19:23-60
+32            android:required="false" />
+32-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:19:61-85
+33
+34        <activity
+34-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:21:9-24:49
+35            android:name="com.example.companion.ui.camera.CameraActivity"
+35-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:22:13-53
+36            android:exported="false"
+36-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:23:13-37
+37            android:grantUriPermissions="true" />
+37-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:24:13-47
+38        <activity android:name="com.example.companion.ui.camera.ResultActivity" />
+38-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:25:9-62
+38-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:25:19-59
+39
+40        <!-- Main Splash Page -->
+41        <activity android:name="com.example.companion.ui.splash.SplashActivity" >
+41-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:28:9-34:20
+41-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:28:19-59
+42            <intent-filter>
+42-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:29:13-33:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:30:17-69
+43-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:32:17-77
+45-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity> <!-- Login Page -->
+48        <activity android:name="com.example.companion.ui.login.LoginActivity" /> <!-- Registration Page -->
+48-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:35:9-60
+48-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:35:19-57
+49        <activity
+49-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:36:9-38:48
+50            android:name="com.example.companion.ui.register.RegisterActivity"
+50-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:37:13-57
+51            android:label="@string/app_name" /> <!-- Main Page -->
+51-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:38:13-45
+52        <activity android:name="com.example.companion.ui.home.MainActivity" /> <!-- Profile Page -->
+52-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:39:9-58
+52-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:39:19-55
+53        <activity android:name="com.example.companion.ui.profile.ProfileActivity" /> <!-- Todo List -->
+53-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:40:9-64
+53-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:40:19-61
+54
+55        <activity android:name="com.example.companion.ui.anxiety.anxietyActivity" />
+55-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:42:9-64
+55-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:42:19-61
+56        <activity android:name="com.example.companion.ui.anxiety.anxietyResultActivity" /> <!-- Bipolar Questionnaire -->
+56-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:43:9-70
+56-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:43:19-67
+57
+58        <activity android:name="com.example.companion.ui.depression.depressionActivity" />
+58-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:45:9-70
+58-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:45:19-67
+59        <activity android:name="com.example.companion.ui.depression.depressionResultActivity" /> <!-- &lt;!&ndash; OCD Questionnaire &ndash;&gt; -->
+59-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:46:9-76
+59-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:46:19-73
+60
+61        <activity android:name="com.example.companion.ui.ptsd.ptsd" />
+61-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:48:9-50
+61-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:48:19-47
+62        <activity android:name="com.example.companion.ui.ptsd.ptsdActivity" />
+62-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:49:9-58
+62-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:49:19-55
+63        <activity android:name="com.example.companion.ui.ptsd.ptsdResultActivity" /> <!-- Mood Page -->
+63-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:50:9-64
+63-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:50:19-61
+64        <activity android:name="com.example.companion.ui.Mood.MoodActivity" />
+64-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:51:9-58
+64-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:51:19-55
+65        <activity android:name="com.example.companion.ui.Mood.AddMoodActivity" /> <!-- Habit Page -->
+65-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:52:9-61
+65-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:52:19-58
+66
+67        <activity
+67-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:54:9-56:48
+68            android:name="com.example.companion.ui.breathing.BreathingActivity"
+68-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:55:13-59
+69            android:label="@string/app_name" />
+69-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:56:13-45
+70        <activity
+70-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:57:9-59:48
+71            android:name="com.example.companion.ui.breathing.BreathingExerciseActivity"
+71-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:58:13-67
+72            android:label="@string/app_name" /> <!-- Ambient Noise Player -->
+72-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:59:13-45
+73        <activity android:name="com.example.companion.ui.ambient.AmbientActivity" />
+73-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:60:9-64
+73-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:60:19-61
+74
+75        <service android:name="com.example.companion.ui.ambient.MediaPlaybackService" >
+75-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:62:9-66:19
+75-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:62:18-65
+76            <intent-filter>
+76-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:63:13-65:29
+77                <action android:name="android.media.browse.MediaBrowserService" />
+77-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:64:17-83
+77-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:64:25-80
+78            </intent-filter>
+79        </service>
+80
+81        <activity android:name="com.example.companion.ui.home.HomeActivity" />
+81-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:67:9-58
+81-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:67:19-55
+82        <activity android:name="com.example.companion.ui.quiz.QuizActivity" />
+82-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:68:9-58
+82-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:68:19-55
+83
+84        <meta-data
+84-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:70:9-72:57
+85            android:name="preloaded_fonts"
+85-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:71:13-43
+86            android:resource="@array/preloaded_fonts" />
+86-->D:\Companion\Companion\Companion\app\src\main\AndroidManifest.xml:72:13-54
+87        <meta-data
+87-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:16:9-18:69
+88            android:name="com.google.android.gms.version"
+88-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:17:13-58
+89            android:value="@integer/google_play_services_version" />
+89-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:18:13-66
+90        <meta-data
+90-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:19:9-21:63
+91            android:name="com.facebook.sdk.ApplicationId"
+91-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:20:13-58
+92            android:value="@string/facebook_application_id" />
+92-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:21:13-60
+93        <meta-data
+93-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:22:9-24:36
+94            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
+94-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:23:13-68
+95            android:value="true" />
+95-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:24:13-33
+96
+97        <activity
+97-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:26:9-30:61
+98            android:name="com.firebase.ui.auth.KickoffActivity"
+98-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:27:13-64
+99            android:exported="false"
+99-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:28:13-37
+100            android:label=""
+100-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:29:13-29
+101            android:theme="@style/FirebaseUI.Transparent" />
+101-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:30:13-58
+102        <activity
+102-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:31:9-34:75
+103            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+103-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:32:13-81
+104            android:exported="false"
+104-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:33:13-37
+105            android:label="@string/fui_title_recover_password_activity" />
+105-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:34:13-72
+106        <activity
+106-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:35:9-38:59
+107            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+107-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:36:13-79
+108            android:exported="false"
+108-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:37:13-37
+109            android:label="@string/fui_sign_in_default" />
+109-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:38:13-56
+110        <activity
+110-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:39:9-43:64
+111            android:name="com.firebase.ui.auth.ui.phone.PhoneVerificationActivity"
+111-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:40:13-83
+112            android:exported="false"
+112-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:41:13-37
+113            android:label="@string/fui_sign_in_with_phone_number"
+113-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:42:13-66
+114            android:windowSoftInputMode="stateAlwaysVisible" />
+114-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:43:13-61
+115        <activity
+115-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:44:9-47:73
+116            android:name="com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt"
+116-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:45:13-84
+117            android:exported="false"
+117-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:46:13-37
+118            android:label="@string/fui_title_welcome_back_idp_prompt" />
+118-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:47:13-70
+119        <activity
+119-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:48:9-51:78
+120            android:name="com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt"
+120-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:49:13-89
+121            android:exported="false"
+121-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:50:13-37
+122            android:label="@string/fui_title_welcome_back_password_prompt" />
+122-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:51:13-75
+123        <activity
+123-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:52:9-55:65
+124            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+124-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:53:13-80
+125            android:exported="false"
+125-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:54:13-37
+126            android:label="@string/fui_default_toolbar_title" />
+126-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:55:13-62
+127        <activity
+127-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:56:9-60:48
+128            android:name="com.facebook.FacebookActivity"
+128-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:57:13-57
+129            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+129-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:58:13-96
+130            android:label="@string/app_name" />
+130-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:59:13-45
+131        <activity
+131-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:61:9-73:20
+132            android:name="com.facebook.CustomTabActivity"
+132-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:62:13-58
+133            android:exported="true" >
+133-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:63:13-36
+134            <intent-filter>
+134-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:65:13-72:29
+135                <action android:name="android.intent.action.VIEW" />
+135-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:66:17-69
+135-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:66:25-66
+136
+137                <category android:name="android.intent.category.DEFAULT" />
+137-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:68:17-76
+137-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:68:27-73
+138                <category android:name="android.intent.category.BROWSABLE" />
+138-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:69:17-78
+138-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:69:27-75
+139
+140                <data android:scheme="@string/facebook_login_protocol_scheme" />
+140-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:71:17-81
+140-->[com.firebaseui:firebase-ui-auth:3.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d9ca8f9e76f04a183b3ac4adb5e85899\jetified-firebase-ui-auth-3.0.0\AndroidManifest.xml:71:23-78
+141            </intent-filter>
+142        </activity>
+143
+144        <service
+144-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:17:9-23:19
+145            android:name="com.google.firebase.components.ComponentDiscoveryService"
+145-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:18:13-84
+146            android:directBootAware="true"
+146-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+147            android:exported="false" >
+147-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:19:13-37
+148            <meta-data
+148-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:20:13-22:85
+149                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+149-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:21:17-111
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.firebase:firebase-firestore:21.4.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\6791a53b00de02dbf2fffeac30e4a198\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:22:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+152                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+152-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+154            <meta-data
+154-->[com.google.firebase:firebase-storage:17.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\763d1880b9dd419b53733d3584baa79e\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
+155                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+155-->[com.google.firebase:firebase-storage:17.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\763d1880b9dd419b53733d3584baa79e\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.firebase:firebase-storage:17.0.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\763d1880b9dd419b53733d3584baa79e\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
+157            <meta-data
+157-->[com.google.android.gms:play-services-measurement-api:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\883fe3ee61da0b22067da7d7ee17f093\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:30:13-32:85
+158                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+158-->[com.google.android.gms:play-services-measurement-api:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\883fe3ee61da0b22067da7d7ee17f093\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:31:17-139
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.android.gms:play-services-measurement-api:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\883fe3ee61da0b22067da7d7ee17f093\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:32:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:32:13-34:85
+161                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+161-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:33:17-96
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:34:17-82
+163        </service>
+164
+165        <provider
+165-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\38d164b88494ebfa4bfd75229517e63b\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+166            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+166-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\38d164b88494ebfa4bfd75229517e63b\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+167            android:authorities="com.pacman.MentAlly.lifecycle-process"
+167-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\38d164b88494ebfa4bfd75229517e63b\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+168            android:exported="false"
+168-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\38d164b88494ebfa4bfd75229517e63b\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+169            android:multiprocess="true" />
+169-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\38d164b88494ebfa4bfd75229517e63b\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+170
+171        <activity
+171-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+172            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+172-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+173            android:excludeFromRecents="true"
+173-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+174            android:exported="true"
+174-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+175            android:launchMode="singleTask"
+175-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+176            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+176-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+177-->[com.google.firebase:firebase-auth:19.2.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\90a9f1e11b26502a87189338c9230db9\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+178        <activity
+178-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:20:9-189
+179            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+179-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:20:19-68
+180            android:excludeFromRecents="true"
+180-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:20:129-162
+181            android:exported="false"
+181-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:20:163-187
+182            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+182-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:20:69-128
+183        <!--
+184Service handling Google Sign-In user revocation. For apps that do not integrate with
+185            Google Sign-In, this service will never be started.
+186        -->
+187        <service
+187-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:24:9-184
+188            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+188-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:24:18-63
+189            android:exported="true"
+189-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:24:64-87
+190            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+190-->[com.google.android.gms:play-services-auth:11.4.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\52bf00f7cbb95f7a4c6dce1dbd16cdda\jetified-play-services-auth-11.4.2\AndroidManifest.xml:24:88-182
+191
+192        <receiver
+192-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:37:9-44:20
+193            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+193-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:38:13-78
+194            android:exported="true"
+194-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:39:13-36
+195            android:permission="com.google.android.c2dm.permission.SEND" >
+195-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:40:13-73
+196            <intent-filter>
+196-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:41:13-43:29
+197                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+197-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:17-81
+197-->[com.google.firebase:firebase-iid:20.0.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\0dbca7ef2e7fe6dd6ad20b90edf9f9bc\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:25-78
+198            </intent-filter>
+199        </receiver>
+200
+201        <activity
+201-->[com.google.android.gms:play-services-base:17.1.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d515fa0142795af05e3369fe0848cba8\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+202            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+202-->[com.google.android.gms:play-services-base:17.1.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d515fa0142795af05e3369fe0848cba8\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+203            android:exported="false"
+203-->[com.google.android.gms:play-services-base:17.1.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d515fa0142795af05e3369fe0848cba8\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+204            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+204-->[com.google.android.gms:play-services-base:17.1.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\d515fa0142795af05e3369fe0848cba8\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+205
+206        <receiver
+206-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:29:9-33:20
+207            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+207-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:30:13-85
+208            android:enabled="true"
+208-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:31:13-35
+209            android:exported="false" >
+209-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:32:13-37
+210        </receiver>
+211        <receiver
+211-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:34:9-42:20
+212            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+212-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:35:13-100
+213            android:enabled="true"
+213-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:36:13-35
+214            android:exported="true"
+214-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:37:13-36
+215            android:permission="android.permission.INSTALL_PACKAGES" >
+215-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:38:13-69
+216            <intent-filter>
+216-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:39:13-41:29
+217                <action android:name="com.android.vending.INSTALL_REFERRER" />
+217-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:17-79
+217-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:25-76
+218            </intent-filter>
+219        </receiver>
+220
+221        <service
+221-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:44:9-47:40
+222            android:name="com.google.android.gms.measurement.AppMeasurementService"
+222-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:45:13-84
+223            android:enabled="true"
+223-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:46:13-35
+224            android:exported="false" />
+224-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:47:13-37
+225        <service
+225-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:48:9-52:72
+226            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+226-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:49:13-87
+227            android:enabled="true"
+227-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:50:13-35
+228            android:exported="false"
+228-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:51:13-37
+229            android:permission="android.permission.BIND_JOB_SERVICE" />
+229-->[com.google.android.gms:play-services-measurement:17.2.2] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\10ddb5a7f44298deca40fafe6f4c087b\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:52:13-69
+230
+231        <provider
+231-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+232            android:name="com.google.firebase.provider.FirebaseInitProvider"
+232-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+233            android:authorities="com.pacman.MentAlly.firebaseinitprovider"
+233-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+234            android:exported="false"
+234-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+235            android:initOrder="100" />
+235-->[com.google.firebase:firebase-common:19.3.0] D:\Companion\Companion\Companion\caches\transforms-2\files-2.1\1b23a58bb1c539c2a19df1b0920c32b5\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+236    </application>
+237
+238</manifest>
